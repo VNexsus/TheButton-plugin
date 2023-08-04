@@ -1,0 +1,23 @@
+{
+    "name"       : "TheButton",
+    "guid"       : "asc.{33BB9E72-345D-CFE3-514C-9BBB6E462AE5}",
+    "version"    : "1.0",
+	
+    "variations" : [
+        {
+            "description"         : "Example how to open page by url in browser",
+            "url"                 : "index.html",
+            "icons"               : ["resources/img/icon.png", "resources/img/icon@2x.png"],
+			"isViewer"            : false,
+            "EditorsSupport"	  : [ "word", "cell", "slide" ],
+			"isDisplayedInViewer" : true,
+			"isSystem"			  : false,
+            "isVisual"            : false,
+            "isModal"             : false,
+            "isInsideMode"        : false,
+            "initDataType"        : "none",
+            "initData"            : "",
+            "buttons"             : []
+        }
+    ]
+}
